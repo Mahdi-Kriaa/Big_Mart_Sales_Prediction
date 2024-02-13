@@ -30,7 +30,7 @@ To explore the dataset the following plots were used:
     
 
 <p align = "center"> 
-  <img src = "https://github.com/Mahdi-Kriaa/food_sales_prediction/blob/main/Images/sales_boxplot.png">
+  <img src = "https://github.com/Mahdi-Kriaa/food_sales_prediction/blob/main/Images/sales_hist_box.png">
 </p>
 
 This histogram shows that the majority of the sales are less than $6,200.
@@ -41,7 +41,7 @@ To visualize the data for explantory purposes, a barplot and regplot were chosen
     - the regplot was chosen to show the trend of sales over the item MRP depending on the outlet type.
 
 <p align = "center"> 
-  <img src = "https://github.com/Mahdi-Kriaa/food_sales_prediction/blob/main/Images/ItemType_VS_Sales.png">
+  <img src = "https://github.com/Mahdi-Kriaa/food_sales_prediction/blob/main/Images/outlet_size_vs_sales.png">
 </p>
 
 
@@ -49,7 +49,7 @@ We notice that the item type has not a significant impact on the sales
 
 
 <p align = "center"> 
-  <img src = "https://github.com/Mahdi-Kriaa/food_sales_prediction/blob/main/Images/ItemMRP_VS_Sales.png">
+  <img src = "https://github.com/Mahdi-Kriaa/food_sales_prediction/blob/main/Images/item_mrp_vs_sales_trend.png">
 </p>
 
 
