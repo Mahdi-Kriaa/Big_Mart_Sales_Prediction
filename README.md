@@ -88,7 +88,7 @@ Error score had a calculation of `$1102.73`.
 
 ## Recommendations
 - The use of this model to predict the sales of an item in a store is reliable for an error tolerance of 812$.
-- To boost the sales, we must mainly choose the optimal items prices and outlet type.
+- To boost sales, we must mainly choose the optimal items prices and outlet type.
 
 ## Limitations & Next Steps
 
