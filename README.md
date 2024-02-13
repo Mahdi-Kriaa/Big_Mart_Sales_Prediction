@@ -45,7 +45,7 @@ To visualize the data for explantory purposes, a barplot and regplot were chosen
 </p>
 
 
-We notice that the item type has not a significant impact on the sales
+We see that sales increase in medium stotes and decrease in small ones.
 
 
 <p align = "center"> 
@@ -53,7 +53,7 @@ We notice that the item type has not a significant impact on the sales
 </p>
 
 
-We see that The item MRP and sales are almost linearly correlated for each outlet type
+We see that sales trend increase linearly with the item price for each type of store
 
 ## Machine Learning 
 
