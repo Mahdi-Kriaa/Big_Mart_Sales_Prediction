@@ -8,6 +8,7 @@ This project aim to predict food sales based on various factors. In the ever-evo
 ### Data Overview
 The dataset includes informations for 2013 sales data for 1559 products across 10 stores in different cities, such as the type of food, price, location of sale, promotional details and historical sales. The dataset comes from Aalytics Vidhya platform which is originally collected by a big mart employees.
 This dataset contains 8523 rows and 12 columns.
+
 Link to dataset: https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/#ProblemStatement
 
 ### Data Dictionary
