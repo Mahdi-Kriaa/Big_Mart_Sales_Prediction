@@ -18,7 +18,7 @@ Link to dataset: https://datahack.analyticsvidhya.com/contest/practice-problem-b
 </p>
 
 ## Methodology
-We will employ various data preprocessing techniques to handle missing values and categorical variables. We will explore different machine learning models, including random forests and gradient boosting, to predict the sales for each store. Model performance will be evaluated based on different metrics such as r2 and RMSE.
+We will employ various data preprocessing techniques to handle missing values and categorical variables. We will explore different machine learning models, including random forests and gradient boosting, to predict the sales for each store. Model performance will be evaluated based on R2, RMSE and MAE scores.
 
 ## Exploratory Data Analysis
 
