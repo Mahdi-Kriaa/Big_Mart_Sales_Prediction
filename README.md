@@ -69,7 +69,7 @@ Models used in this project are the following :
     - XGBoost
     - Stacking Regressor
     
-We note that neural networks models were not preferred as we are dealing with structred data.
+We note that neural networks models were not preferred as we are dealing with structured data.
 
 ### Models Evaluation & Results
 
