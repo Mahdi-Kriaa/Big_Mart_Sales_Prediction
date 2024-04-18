@@ -14,7 +14,7 @@ Link to dataset: https://datahack.analyticsvidhya.com/contest/practice-problem-b
 ### Data Dictionary
 
 <p align = "center"> 
-  <img src = https://github.com/Mahdi-Kriaa/Big_Mart_Sales_Prediction/blob/main/Images/data_dictionary.PNG>
+  <img src = https://github.com/Mahdi-Kriaa/Big_Mart_Sales_Prediction/blob/main/images/data_dictionary.PNG>
 </p>
 
 ## Methodology
@@ -30,7 +30,7 @@ To explore the dataset the following plots were used:
     
 
 <p align = "center"> 
-  <img src = "https://github.com/Mahdi-Kriaa/Big_Mart_Sales_Prediction/blob/main/Images/sales_hist_box.png">
+  <img src = "https://github.com/Mahdi-Kriaa/Big_Mart_Sales_Prediction/blob/main/images/sales_hist_box.png">
 </p>
 
 This histogram shows that the majority of the sales are less than $6,400.
@@ -41,7 +41,7 @@ To visualize the data for explantory purposes, a barplot and regplot were chosen
     - the regplot was chosen to show the trend of sales over the item MRP depending on the outlet type.
 
 <p align = "center"> 
-  <img src = "https://github.com/Mahdi-Kriaa/Big_Mart_Sales_Prediction/blob/main/Images/outlet_size_vs_sales.png">
+  <img src = "https://github.com/Mahdi-Kriaa/Big_Mart_Sales_Prediction/blob/main/images/outlet_size_vs_sales.png">
 </p>
 
 
@@ -49,7 +49,7 @@ We see that sales increase in medium stotes and decrease in small ones.
 
 
 <p align = "center"> 
-  <img src = "https://github.com/Mahdi-Kriaa/Big_Mart_Sales_Prediction/blob/main/Images/item_mrp_vs_sales_trend.png">
+  <img src = "https://github.com/Mahdi-Kriaa/Big_Mart_Sales_Prediction/blob/main/images/item_mrp_vs_sales_trend.png">
 </p>
 
 
