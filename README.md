@@ -33,7 +33,7 @@ To explore the dataset the following plots were used:
   <img src = "https://github.com/Mahdi-Kriaa/Big_Mart_Sales_Prediction/blob/main/Images/sales_hist_box.png">
 </p>
 
-This histogram shows that the majority of the sales are less than $6,200.
+This histogram shows that the majority of the sales are less than $6,400.
  
 To visualize the data for explantory purposes, a barplot and regplot were chosen.
 
