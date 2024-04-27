@@ -73,7 +73,7 @@ We note that neural networks models were not preferred as we are dealing with st
 
 ### Models Evaluation & Results
 
-The following are the Mean Absolute Error scores for each model with default tuning, for the testing set:
+The following are the Mean Absolute Error scores for each model with default tuning on the testing set:
 
     - Linear Regressor: 826.40
     - KNN: 857.50
