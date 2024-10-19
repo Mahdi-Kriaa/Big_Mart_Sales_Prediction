@@ -69,8 +69,6 @@ Models used in this project are the following :
     - XGBoost
     - Stacking Regressor
     
-We note that neural networks models were not preferred as we are dealing with structured data.
-
 ### Models Evaluation & Results
 
 The following are the Mean Absolute Error scores for each model with default tuning on the testing set:
@@ -83,8 +81,8 @@ The following are the Mean Absolute Error scores for each model with default tun
     - XGBoost: 825.61
     - Stacking Regressor: 786.732
 
-The Final Model Chosen was a tuned stacking regressor . For the testing set the model, `57.81%` of the variance in sales was explained by features and the Mean Absolute 
-Error score had a calculation of `$1102.73`.
+The final model chosen was a tuned stacking regressor . For the testing set, `57.81%` of the variance in sales was explained by features and the Mean Absolute 
+Error score has a calculation of `$1102.73`.
 
 ## Recommendations
 - The use of this model to predict the sales of an item in a store is reliable for an error tolerance of 812$.
