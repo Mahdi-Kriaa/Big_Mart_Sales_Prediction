@@ -6,7 +6,7 @@ This project aim to predict food sales based on various factors. In the ever-evo
 ## Data Description
 
 ### Data Overview
-The dataset includes informations for 2013 sales data for 1559 products across 10 stores in different cities, such as the type of food, price, location of sale, promotional details and historical sales. The dataset comes from Aalytics Vidhya platform which is originally collected by a big mart employees.
+The dataset includes informations for 2013 sales data for different products across different stores in a big mart, such as the type of food, price, location of sale and historical sales. The dataset comes from Aalytics Vidhya platform which is originally collected by a big mart employees.
 This dataset contains 8523 rows and 12 columns.
 
 Link to dataset: https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/#ProblemStatement
@@ -90,7 +90,7 @@ Error score has a calculation of `$1102.73`.
 
 ## Limitations & Next Steps
 
-The model is not reliable for an error tolerance less than 812$, so, other features can be added like historical sales and economic indicators, also the
+The model is not reliable for an error tolerance less than 812$, so, other features can be added like historical sales time steps and economic indicators, also the
 data samples number is not very high and providing more samples could improve the model performance.
 
 
